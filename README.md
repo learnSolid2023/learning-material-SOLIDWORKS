@@ -1,2 +1,2 @@
 # learning-material-SOLIDWORKS
-In this repository, you can find all learning material that you will require to follow the tutorials on Twitch
+In this repository, you can find lecture notes and tutorial sheets that you should use before going to the live tutorial sessions on Twitch.
